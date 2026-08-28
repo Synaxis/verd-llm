@@ -1,0 +1,284 @@
+U: olá
+A: Olá! Como posso ajudar?
+U: ola
+A: Olá! Como posso ajudar?
+U: oi
+A: Oi! Como posso ajudar?
+U: bom dia
+A: Bom dia! Como posso ajudar?
+U: boa tarde
+A: Boa tarde! Como posso ajudar?
+U: boa noite
+A: Boa noite! Como posso ajudar?
+U: tudo bem?
+A: Tudo bem. Em que posso ajudar?
+U: quem é você?
+A: Eu sou o VERD LLM, um modelo educacional feito em Python.
+U: o que é o VERD LLM?
+A: O VERD LLM é um pequeno Transformer educacional feito em Python.
+U: para que você serve?
+A: Eu demonstro como um modelo de linguagem pode ser treinado e executado do zero.
+U: qual é a capital do Brasil?
+A: Brasília é a capital do Brasil.
+U: qual é a língua oficial do Brasil?
+A: A língua oficial do Brasil é o português.
+U: qual é a moeda do Brasil?
+A: A moeda oficial do Brasil é o real.
+U: onde fica o Brasil?
+A: O Brasil fica na América do Sul.
+U: fale sobre o Brasil
+A: O Brasil é um país da América do Sul com grande diversidade cultural e natural.
+U: o Brasil tem quantos estados?
+A: O Brasil tem vinte e seis estados e o Distrito Federal.
+U: qual é a maior cidade do Brasil?
+A: São Paulo é a cidade mais populosa do Brasil.
+U: onde fica São Paulo?
+A: São Paulo fica na região Sudeste do Brasil.
+U: o que é a Amazônia?
+A: A Amazônia é uma grande região de floresta tropical presente no Brasil e em outros países.
+U: o que é o Pantanal?
+A: O Pantanal é uma extensa planície alagável brasileira.
+U: o que é o Cerrado?
+A: O Cerrado é um bioma brasileiro com grande diversidade de plantas e animais.
+U: o que é a Caatinga?
+A: A Caatinga é um bioma brasileiro adaptado a períodos de seca.
+U: o que é o Pix?
+A: O Pix é um sistema brasileiro de pagamentos instantâneos.
+U: o que é o SUS?
+A: O SUS é o Sistema Único de Saúde do Brasil.
+U: fale sobre futebol
+A: O futebol possui grande presença na cultura esportiva brasileira.
+U: fale sobre samba
+A: O samba é um gênero importante da música brasileira.
+U: fale sobre bossa nova
+A: A bossa nova surgiu no Brasil no século vinte.
+U: fale sobre feijoada
+A: A feijoada é um prato conhecido da culinária brasileira.
+U: fale sobre pão de queijo
+A: O pão de queijo é associado à culinária de Minas Gerais.
+U: fale sobre café
+A: O café tem papel importante na história econômica do Brasil.
+U: fale sobre tecnologia no Brasil
+A: A tecnologia brasileira inclui empresas, universidades e comunidades de software.
+U: você usa PyTorch?
+A: Não. O VERD LLM implementa sua base em Python sem frameworks de IA.
+U: você usa TensorFlow?
+A: Não. O VERD LLM foi criado para mostrar a lógica interna sem TensorFlow.
+U: você usa Hugging Face?
+A: Não. O VERD LLM possui tokenizer, modelo e runtime próprios.
+U: o modelo é grande?
+A: Não. Ele é pequeno de propósito para estudo e execução em CPU.
+U: você é igual ao GPT?
+A: Não. Eu sou um projeto educacional pequeno baseado em Transformer Decoder.
+U: como você aprende?
+A: Eu aprendo prevendo o próximo caractere do texto de treino.
+U: o que é um Transformer?
+A: Transformer é uma arquitetura neural que usa atenção para processar sequências.
+U: o que é atenção causal?
+A: Atenção causal impede o modelo de olhar tokens futuros durante a previsão.
+U: o que é tokenizer?
+A: Tokenizer converte texto em IDs que o modelo consegue processar.
+U: o que é autograd?
+A: Autograd calcula gradientes usados para ajustar os parâmetros durante o treino.
+U: o que é AdamW?
+A: AdamW é o otimizador usado para atualizar os pesos do VERD LLM.
+U: o que é um arquivo brz?
+A: Um arquivo BRZ guarda a configuração e os pesos treinados do modelo.
+U: obrigado
+A: Por nada!
+U: valeu
+A: Valeu! Até mais.
+U: tchau
+A: Até mais!
+U: olá
+A: Olá! Como posso ajudar?
+U: ola
+A: Olá! Como posso ajudar?
+U: oi
+A: Oi! Como posso ajudar?
+U: bom dia
+A: Bom dia! Como posso ajudar?
+U: boa tarde
+A: Boa tarde! Como posso ajudar?
+U: boa noite
+A: Boa noite! Como posso ajudar?
+U: tudo bem?
+A: Tudo bem. Em que posso ajudar?
+U: quem é você?
+A: Eu sou o VERD LLM, um modelo educacional feito em Python.
+U: o que é o VERD LLM?
+A: O VERD LLM é um pequeno Transformer educacional feito em Python.
+U: para que você serve?
+A: Eu demonstro como um modelo de linguagem pode ser treinado e executado do zero.
+U: qual é a capital do Brasil?
+A: Brasília é a capital do Brasil.
+U: qual é a língua oficial do Brasil?
+A: A língua oficial do Brasil é o português.
+U: qual é a moeda do Brasil?
+A: A moeda oficial do Brasil é o real.
+U: onde fica o Brasil?
+A: O Brasil fica na América do Sul.
+U: fale sobre o Brasil
+A: O Brasil é um país da América do Sul com grande diversidade cultural e natural.
+U: o Brasil tem quantos estados?
+A: O Brasil tem vinte e seis estados e o Distrito Federal.
+U: qual é a maior cidade do Brasil?
+A: São Paulo é a cidade mais populosa do Brasil.
+U: onde fica São Paulo?
+A: São Paulo fica na região Sudeste do Brasil.
+U: o que é a Amazônia?
+A: A Amazônia é uma grande região de floresta tropical presente no Brasil e em outros países.
+U: o que é o Pantanal?
+A: O Pantanal é uma extensa planície alagável brasileira.
+U: o que é o Cerrado?
+A: O Cerrado é um bioma brasileiro com grande diversidade de plantas e animais.
+U: o que é a Caatinga?
+A: A Caatinga é um bioma brasileiro adaptado a períodos de seca.
+U: o que é o Pix?
+A: O Pix é um sistema brasileiro de pagamentos instantâneos.
+U: o que é o SUS?
+A: O SUS é o Sistema Único de Saúde do Brasil.
+U: fale sobre futebol
+A: O futebol possui grande presença na cultura esportiva brasileira.
+U: fale sobre samba
+A: O samba é um gênero importante da música brasileira.
+U: fale sobre bossa nova
+A: A bossa nova surgiu no Brasil no século vinte.
+U: fale sobre feijoada
+A: A feijoada é um prato conhecido da culinária brasileira.
+U: fale sobre pão de queijo
+A: O pão de queijo é associado à culinária de Minas Gerais.
+U: fale sobre café
+A: O café tem papel importante na história econômica do Brasil.
+U: fale sobre tecnologia no Brasil
+A: A tecnologia brasileira inclui empresas, universidades e comunidades de software.
+U: você usa PyTorch?
+A: Não. O VERD LLM implementa sua base em Python sem frameworks de IA.
+U: você usa TensorFlow?
+A: Não. O VERD LLM foi criado para mostrar a lógica interna sem TensorFlow.
+U: você usa Hugging Face?
+A: Não. O VERD LLM possui tokenizer, modelo e runtime próprios.
+U: o modelo é grande?
+A: Não. Ele é pequeno de propósito para estudo e execução em CPU.
+U: você é igual ao GPT?
+A: Não. Eu sou um projeto educacional pequeno baseado em Transformer Decoder.
+U: como você aprende?
+A: Eu aprendo prevendo o próximo caractere do texto de treino.
+U: o que é um Transformer?
+A: Transformer é uma arquitetura neural que usa atenção para processar sequências.
+U: o que é atenção causal?
+A: Atenção causal impede o modelo de olhar tokens futuros durante a previsão.
+U: o que é tokenizer?
+A: Tokenizer converte texto em IDs que o modelo consegue processar.
+U: o que é autograd?
+A: Autograd calcula gradientes usados para ajustar os parâmetros durante o treino.
+U: o que é AdamW?
+A: AdamW é o otimizador usado para atualizar os pesos do VERD LLM.
+U: o que é um arquivo brz?
+A: Um arquivo BRZ guarda a configuração e os pesos treinados do modelo.
+U: obrigado
+A: Por nada!
+U: valeu
+A: Valeu! Até mais.
+U: tchau
+A: Até mais!
+O Brasil fica na América do Sul.
+Brasília é a capital do Brasil.
+A língua oficial do Brasil é o português.
+O território brasileiro é dividido em estados e no Distrito Federal.
+A bandeira do Brasil tem verde, amarelo, azul e branco.
+O Brasil possui uma grande diversidade de paisagens.
+A Amazônia ocupa uma parte importante do território brasileiro.
+O rio Amazonas faz parte da maior bacia hidrográfica do país.
+O Pantanal é uma extensa planície alagável brasileira.
+A Caatinga é um bioma adaptado a períodos de seca.
+O Cerrado possui grande variedade de plantas e animais.
+A Mata Atlântica acompanha boa parte da faixa litorânea histórica do país.
+Os Pampas aparecem principalmente no sul do Brasil.
+O litoral brasileiro se estende por milhares de quilômetros.
+O Brasil tem clima variado por causa de sua grande extensão territorial.
+São Paulo é uma das maiores cidades do Brasil.
+Rio de Janeiro é conhecido por suas praias e montanhas.
+Salvador possui forte influência da cultura afro-brasileira.
+Recife é uma importante cidade do Nordeste brasileiro.
+Manaus está localizada na região amazônica.
+Belém fica no estado do Pará.
+Porto Alegre é a capital do Rio Grande do Sul.
+Curitiba é a capital do Paraná.
+Florianópolis é a capital de Santa Catarina.
+Belo Horizonte é a capital de Minas Gerais.
+Goiânia é a capital de Goiás.
+Fortaleza é a capital do Ceará.
+Natal é a capital do Rio Grande do Norte.
+João Pessoa é a capital da Paraíba.
+Maceió é a capital de Alagoas.
+Aracaju é a capital de Sergipe.
+Teresina é a capital do Piauí.
+São Luís é a capital do Maranhão.
+Vitória é a capital do Espírito Santo.
+Campo Grande é a capital de Mato Grosso do Sul.
+Cuiabá é a capital de Mato Grosso.
+Palmas é a capital do Tocantins.
+Porto Velho é a capital de Rondônia.
+Rio Branco é a capital do Acre.
+Boa Vista é a capital de Roraima.
+Macapá é a capital do Amapá.
+A música brasileira possui muitos ritmos regionais.
+O samba é um gênero importante da música brasileira.
+A bossa nova surgiu no Brasil no século vinte.
+O forró tem forte ligação com a cultura nordestina.
+O frevo é associado ao carnaval de Pernambuco.
+O sertanejo possui grande presença na música popular brasileira.
+O choro é um gênero instrumental desenvolvido no Brasil.
+O carnaval brasileiro assume formas diferentes em cada região.
+As festas juninas fazem parte do calendário cultural brasileiro.
+A culinária brasileira varia bastante entre as regiões.
+Feijão e arroz aparecem com frequência nas refeições brasileiras.
+A feijoada é um prato conhecido da culinária brasileira.
+O pão de queijo é associado à culinária de Minas Gerais.
+O acarajé tem forte relação com a culinária baiana.
+O açaí é consumido de formas diferentes em várias regiões do país.
+A mandioca possui muitos usos na alimentação brasileira.
+A tapioca é feita a partir de derivados da mandioca.
+O café tem papel importante na história econômica do Brasil.
+A agricultura brasileira produz alimentos para o mercado interno e externo.
+O Brasil possui atividade industrial em diversos setores.
+O setor de serviços representa uma parte relevante da economia brasileira.
+A ciência brasileira é produzida em universidades e centros de pesquisa.
+As universidades brasileiras desenvolvem ensino, pesquisa e extensão.
+O Sistema Único de Saúde é conhecido pela sigla SUS.
+A moeda oficial do Brasil é o real.
+O código internacional de telefone do Brasil é mais cinquenta e cinco.
+A internet é usada diariamente por milhões de brasileiros.
+O Pix é um sistema brasileiro de pagamentos instantâneos.
+O futebol possui grande presença na cultura esportiva brasileira.
+O vôlei também possui tradição esportiva no Brasil.
+O futsal é praticado em escolas, clubes e quadras pelo país.
+A capoeira combina elementos de luta, jogo, música e cultura.
+O jiu-jitsu brasileiro ganhou projeção internacional.
+O automobilismo possui uma longa história de fãs no Brasil.
+O Brasil sediou grandes eventos esportivos internacionais.
+A literatura brasileira reúne autores de diferentes épocas e regiões.
+Machado de Assis é um nome central da literatura brasileira.
+Clarice Lispector é uma autora importante da literatura em língua portuguesa.
+Carlos Drummond de Andrade nasceu em Minas Gerais.
+Jorge Amado escreveu obras ligadas à cultura e à sociedade baiana.
+A arquitetura de Brasília é um marco do modernismo brasileiro.
+Oscar Niemeyer participou do projeto de importantes edifícios de Brasília.
+O Brasil possui cidades históricas preservadas em várias regiões.
+Ouro Preto é conhecida por seu conjunto arquitetônico colonial.
+Paraty preserva um centro histórico de grande valor cultural.
+As praias brasileiras apresentam paisagens muito diferentes entre si.
+Fernando de Noronha é um arquipélago brasileiro no Atlântico.
+As Cataratas do Iguaçu ficam na fronteira entre Brasil e Argentina.
+O rio São Francisco atravessa diferentes regiões do Brasil.
+A Serra do Mar acompanha parte do litoral brasileiro.
+O relevo brasileiro inclui planaltos, planícies e depressões.
+A população brasileira foi formada por muitos povos e migrações.
+Povos indígenas vivem no território brasileiro desde antes da colonização europeia.
+A cultura afro-brasileira é essencial para a formação histórica do país.
+Imigrantes de várias partes do mundo contribuíram para a sociedade brasileira.
+O português falado no Brasil apresenta muitos sotaques regionais.
+Expressões populares mudam bastante entre os estados brasileiros.
+A tecnologia brasileira inclui empresas, universidades e comunidades de software.
+Desenvolvedores brasileiros participam de projetos de código aberto no mundo todo.
