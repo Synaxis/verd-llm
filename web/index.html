@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>VERD</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div>
+        <span class="eyebrow">LOCAL • PYTHON PURO</span>
+        <h1>VERD</h1>
+      </div>
+      <span id="modelInfo" class="badge">carregando modelo</span>
+    </header>
+
+    <section id="chat" class="chat" aria-live="polite">
+      <article class="message assistant">
+        <small>VERD</small>
+        <p>Modelo carregado. Envie uma mensagem.</p>
+      </article>
+    </section>
+
+    <form id="form" class="composer">
+      <textarea id="input" rows="3" placeholder="Digite sua mensagem..." required></textarea>
+      <div class="controls">
+        <label>Temp <input id="temperature" type="number" min="0" max="2" step="0.1" value="0.35"></label>
+        <label>Tokens <input id="maxTokens" type="number" min="1" max="256" value="64"></label>
+        <button type="submit">Enviar</button>
+      </div>
+    </form>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>
