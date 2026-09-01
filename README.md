@@ -4,7 +4,7 @@
 
 O projeto evita frameworks de IA como PyTorch, TensorFlow e Hugging Face. O NumPy é usado para as operações de matriz; tokenizer, autograd, atenção, treinamento, inferência e formato do modelo são implementados no próprio projeto.
 
-**Autor:** Caio Athaide Torquato  
+**Autor:** Caio Athaide Torquato (Nickname Synaxis)
 **Versão:** v1.0.0
 
 ## Sobre o nome
